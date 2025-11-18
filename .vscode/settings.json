@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.1": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
