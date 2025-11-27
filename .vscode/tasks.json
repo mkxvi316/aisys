@@ -13,7 +13,8 @@
 				"/home/mkxvi316/aisys/apue.3e/lib/libapue.a",
 				"-o",
 				"${fileDirname}/${fileBasenameNoExtension}",
-				"-lcurl"
+				"-lcurl",
+				"-lcjson"
 			],
 			"options": {
 				"cwd": "${fileDirname}"
