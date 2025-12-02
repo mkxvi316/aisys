@@ -1,0 +1,38 @@
+USER: hi
+ASSISTANT: Hi there! How’s your day going so far? 😊 
+
+Is there anything you’d like to chat about or anything I can help you with?
+USER: 안녕
+ASSISTANT: Hello to you too! 😊 
+
+What’s on your mind?
+USER: 한국어로 답줘
+ASSISTANT: 안녕하세요! 무엇을 도와드릴까요? (Annyeonghaseyo! Mueoseul dowadeurilkkayo?) 
+
+(Hello! How can I help you?)
+USER: 한국 대통령은 누구야?
+ASSISTANT: 한국 대통령은 윤석열입니다. (Yung Sik-chul-eul-im-ni-da.)
+
+Do you want to know more about him?
+USER: 무슨 날짜 기준이야?
+ASSISTANT: 2024년 5월 15일입니다. (2024-nyang geosi 15-il-ni-da.)
+USER: 하지만 오늘은 2년 12월 2일인데?
+ASSISTANT: 아, 죄송합니다! 제가 놓쳤습니다. 오늘은 2023년 12월 2일입니다. (Cha, geoseumimsineogeun-eul soong-gath-eul-ni-da. - Ah, joesong-ham-ni-da! Je-geun-eul soong-gath-eul 2023-nyang 12-il 2-il-ni-da.)
+
+Sorry I missed that! It’s December 2nd, 2023.
+
+Do you want me to look up something specific about that date?
+USER: 2025년이야
+ASSISTANT: 맞아요! 2025년입니다. (Chak-a-yo! 2025-il-im-ni-da.)
+USER: 2025년 월 2일 기준으로 대한민국 대통령은 누구야?
+ASSISTANT: 2025년 2월 2일 기준으로 대한민국 대통령은 윤석열입니다. (2025-nyang 2-il-gi-eon 2-il-mi-ni-da-eul 2025-il-im-ni-da-eul-im-ni-da-eul Yun-sik-chul-eul-im-ni-da.)
+USER: 12월라니까?? 
+ASSISTANT: 네, 12월 2일입니다. 2025년 2월 2일 기준입니다. (Ne, 12-il-gi-eon 2-il-gi-eon-i-da. 2025-nyang 2-il-gi-eon-i-da-eul-im-ni-da-eul-im-ni-da-eul.)
+
+Let me know if you have any other questions!
+USER: shut down
+ASSISTANT: Okay, I understand. 
+
+Is there anything I can help you with now?
+USER: nothing to help me
+ASSISTANT: Okay, let's try something else. How about we just chat for a bit? Do you want to talk about something, or would you like me to do something specific?
